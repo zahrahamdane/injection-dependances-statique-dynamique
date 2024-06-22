@@ -4,11 +4,10 @@ import dao.IDao;
 import metier.IMetier;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 
-public class pres2 {
+public class Pres2 {
     public static void main(String[] args) throws Exception {
 
         // DaoImpl2 dao = new DaoImpl2();
